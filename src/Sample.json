@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "MIT researchers uncover 'unpatchable' flaw in Apple M1 chips",
+            "description": "Apple’s M1 chips have an “unpatchable” hardware vulnerability that could allow attackers to break through its last line of security defenses, MIT researchers have discovered. The vulnerability lies in a hardware-level security mechanism utilized in Apple M1 c…",
+            "url": "https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/m1-chip-apple.jpg?w=603",
+            "publishedAt": "2022-06-10T11:10:09Z",
+            "content": "Apples M1 chips have an “unpatchable” hardware vulnerability that could allow attackers to break through its last line of security defenses, MIT researchers have discovered.\r\nThe vulnerability lies i… [+3181 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Twitter’s Report Tweet update rolls out globally to make reporting dodgy tweets easier",
+            "description": "Last December, Twitter ran a limited test in the U.S. for a new Report Tweet flow — designed to improve the process of flagging offensive or dangerous content on site by adding more options for explaining whatever the issue happened to be. The test worked: th…",
+            "url": "https://techcrunch.com/2022/06/10/twitters-report-tweet-update-rolls-out-globally-to-make-reporting-dodgy-tweets-easier/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/alexander-shatov-k1xf2D7jWUs-unsplash-e1654843242136.jpg?w=711",
+            "publishedAt": "2022-06-10T09:03:47Z",
+            "content": "Last December, Twitter ran a limited test in the U.S. for a new Report Tweet flow — designed to improve the process of flagging offensive or dangerous content on site by adding more options for expla… [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon said to pull out of IPL cricket streaming bidding",
+            "description": "Amazon won’t be bidding for the IPL media rights for the year 2023 to 2027, a person familiar with the matter said, leaving the hotly contested streaming auction to Disney and Reliance. The e-commerce giant was one of the several tech giants that had been pre…",
+            "url": "https://techcrunch.com/2022/06/10/amazon-said-to-pull-out-of-ipl-cricket-streaming-bidding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1148622191.jpg?w=552",
+            "publishedAt": "2022-06-10T08:16:59Z",
+            "content": "Amazon won’t be bidding for the IPL media rights for the year 2023 to 2027, a person familiar with the matter said, leaving the hotly contested streaming auction to Disney and Reliance. The e-commerc… [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Good Capital, Chris Sacca's Lowercarbon back India's SolarSquare",
+            "description": "SolarSquare has raised $4 million in a round led by Good Capital. Chris Sacca's Lowercarbon also invested in the firm, its maiden backing in India.",
+            "url": "https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/solarsquare.jpg?w=675",
+            "publishedAt": "2022-06-10T03:34:23Z",
+            "content": "Even as India is increasingly adding generation capacity from solar power, setting examples for many other developing nations, there’s a large population of the South Asian nation that is yet to join… [+3888 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Duolingo back in China app stores after 1 year with a local twist",
+            "description": "Duolingo, the Nasdaq-listed language learning app, is back in China’s Apple App Store and Android stores nearly a year after it disappeared from the country’s app stores. Users in China found the Pittsburg-based app unavailable for downloads last August amid …",
+            "url": "https://techcrunch.com/2022/06/09/duolingo-back-in-china/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Screenshot-2022-06-10-at-10.09.42-AM.png?w=764",
+            "publishedAt": "2022-06-10T02:19:05Z",
+            "content": "Duolingo, the Nasdaq-listed language learning app, is back in China’s Apple App Store and Android stores nearly a year after it disappeared from the country’s app stores.\r\nUsers in China found the Pi… [+1961 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Stefanie Waldek",
+            "title": "NASA assembles a UFO research team to study 'unidentified aerial phenomena'",
+            "description": "NASA has announced the formation of a study team dedicated to UFOs—or unidentified aerial phenomena (UAPs), as they’ve been rebranded to shed some of their tin-foil-hat stigma. But don’t expect some sort of “X-Files” team seeking to prove the existence of ext…",
+            "url": "https://techcrunch.com/2022/06/09/nasa-assembles-a-ufo-research-team-to-study-unidentified-aerial-phenomena/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/jeremy-thomas-rMmibFe4czY-unsplash.jpg?w=711",
+            "publishedAt": "2022-06-09T23:19:31Z",
+            "content": "NASA has announced the formation of a study team dedicated to UFOsor unidentified aerial phenomena (UAPs), as they’ve been rebranded to shed some of their tin-foil-hat stigma. But don’t expect some s… [+3287 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Jay-Z and Jack Dorsey launched a Bitcoin academy in a public housing complex",
+            "description": "Is billionaire-funded crypto education really what low-income people need?",
+            "url": "https://techcrunch.com/2022/06/09/jay-z-jack-dorsey-bitcoin-academy-marcy-public-housing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-629425414.jpeg?w=600",
+            "publishedAt": "2022-06-09T23:14:24Z",
+            "content": "Twitter co-founder and Block CEO Jack Dorsey is teaming up with artist Jay-Z (Shawn Carter) to launch The Bitcoin Academy at Marcy Houses, the public housing complex in Brooklyn, New York where Jay-Z… [+5860 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Records show ICE uses LexisNexis to check millions, far more than previously thought",
+            "description": "Immigration and Customs Enforcement (ICE) has been using LexisNexis since it parted ways with its previous data broker partner back in 2021. But far from using the platform strictly for checking for those with “serious criminal backgrounds,” the agency is per…",
+            "url": "https://techcrunch.com/2022/06/09/records-show-ice-uses-lexisnexis-to-check-millions-far-more-than-previously-thought/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-992930218.jpg?w=600",
+            "publishedAt": "2022-06-09T22:52:06Z",
+            "content": "Immigration and Customs Enforcement (ICE) has been using LexisNexis since it parted ways with its previous data broker partner back in 2021. But far from using the platform strictly for checking for … [+4220 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "EV SPAC Faraday Future now has the attention of the DOJ",
+            "description": "Amid an investigation by the Securities and Exchange Commission into inaccurate statements to investors, Faraday Future has received a preliminary request for information from the U.S. Department of Justice. The DOJ’s request for information is related to the…",
+            "url": "https://techcrunch.com/2022/06/09/faraday-future-ev-spac-doj-sec-investigation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/faraday-facilities-002.jpg?w=600",
+            "publishedAt": "2022-06-09T22:06:49Z",
+            "content": "Amid an investigation by the Securities and Exchange Commission into inaccurate statements to investors, Faraday Future has received a preliminary request for information from the U.S. Department of … [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall, Haje Jan Kamps",
+            "title": "Daily Crunch: Upskilling edtech platform GOMYCODE closes $8M Series A",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/06/09/daily-crunch-upskilling-edtech-platform-gomycode-closes-8m-series-a/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/PhotoPictureResizer_220609_024943233_crop_670x478-1024x731-1.jpg?w=560",
+            "publishedAt": "2022-06-09T22:02:32Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nWhen did it become Thursday? About 15 hours ago, thats when! Welco… [+6923 chars]"
+        }
+    ]
+}
